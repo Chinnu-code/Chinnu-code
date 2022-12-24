@@ -2,7 +2,7 @@
 - 👀 I’m interested in web development
 - 🌱 I’m currently learning python web development
 - 💞️ I’m looking to collaborate on web developer
-- 📫 How to reach me ashokashok@gmail.com
+- 📫 How to reach me ashokashok00566@gmail.com
 
 <!---
 Chinnu-code/Chinnu-code is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
